@@ -63,6 +63,32 @@ Users can practice **MCQ and coding questions** across 14+ topics, take **timed 
 
 ---
 
+## 🖼️ Screenshots
+
+
+<table>
+  <tr>
+    <td align="center"><b>Dashboard</b></td>
+    <td align="center"><b>Questions</b></td>
+  </tr>
+  <tr>
+    <td><img width="420" alt="image" src="https://github.com/user-attachments/assets/03f925de-5fed-4733-8f36-9fd90678a8a2" /></td>
+    <td><img width="420"  alt="image" src="https://github.com/user-attachments/assets/b4cc23e0-3f9b-48f2-a63a-77a91f3ba839" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Mock Tests</b></td>
+    <td align="center"><b>Analytics</b></td>
+  </tr>
+  <tr>
+    <td><img width="420"  alt="image" src="https://github.com/user-attachments/assets/8654a4d2-6055-4a03-b563-29433a02dd5f" /></td>
+    <td><img width="420"  alt="image" src="https://github.com/user-attachments/assets/16f5bfb8-4a1a-4810-95c4-5daebed39102" /> </td>
+  </tr>
+</table>
+
+
+
+---
+
 
 
 ## 🛠 Tech Stack
